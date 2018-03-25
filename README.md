@@ -42,7 +42,7 @@ I. Tackling the Issue using a different approach
 
 II. A significant improvement on last time
 
-III. How robots can save human lives
+III. How robots can save human lives, with 
 
 IV. Examples of robots at work
 
@@ -56,24 +56,24 @@ VIII. Following the pattern of an earlier development
 
 IX. The ethical issues of robotics
 
-Paragraph A ………………….
+Paragraph A …………III……….
 
-Paragraph B …………………
+Paragraph B …………I………
 
-Paragraph C …………………
+Paragraph C ………II…………
 
-Paragraph D ………………
+Paragraph D ……VII…………
 
-Paragraph E ……………….
+Paragraph E ……I………….
 
-Paragraph F ………………..
+Paragraph F …………V……..
 
 2)
 
 Look at the following statements and the list of people below. Match each statement with the correct person, A, B or C.
 Note You may use any letter more than once.
 
-A Bill Gates    B Nello Cristianini      C Ron Chrisley
+A Bill Gates, C & D    B Nello Cristianini      C Ron Chrisley, E & F
 
 An important concern for scientists is to ensure that robots do not seem frightening. 
 
@@ -88,7 +88,7 @@ Complete the notes below. Choose NO MORE THAN THREE WORDS from the text for each
 
 Robot Features
 
-DARPA race cars:                          ……………......... provides maps and plans for route
+DARPA race cars:                           ……………......... provides maps and plans for route
 
 Electrolux Trilobite:                    	builds an image of a room by sending out …………….
 
