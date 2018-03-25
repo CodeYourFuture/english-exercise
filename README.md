@@ -92,7 +92,7 @@ DARPA race cars:                          ……………......... provides maps
 
 Electrolux Trilobite:                    	builds an image of a room by sending out …ultrasound signals………….
 
-Robot Kitchen humanoids:         	have a ……………….touch-screen....... to take orders
+Robot Kitchen humanoids:         	have a …………….touch-screen....... to take orders
  
  
  
