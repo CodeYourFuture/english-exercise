@@ -41,20 +41,27 @@ List of Headings
 I. Tackling the Issue using a different approach
 
 II. A significant improvement on last time
+B
 
 III. How robots can save human lives
 
 IV. Examples of robots at work
+A
 
 V. Not what it seemed to be
+C
 
 VI. Why timescales are impossible to predict
 
+
 VII. The reason why robots rarely move
+D
 
 VIII. Following the pattern of an earlier development
+E
 
 IX. The ethical issues of robotics
+
 
 Paragraph A ………………….
 
@@ -76,23 +83,27 @@ Note You may use any letter more than once.
 A Bill Gates    B Nello Cristianini      C Ron Chrisley
 
 An important concern for scientists is to ensure that robots do not seem frightening. 
+C
 
-We have stopped trying to enable robots to perceive objects as humans do 
+We have stopped trying to enable robots to perceive objects as humans do
+A 
 
-It will take considerable time for modern robots to match the ones we have created in films and books. 
+It will take considerable time for modern robots to match the ones we have created in films and books.
+B
 
 We need to enable robots to move freely before we think about trying to communicate with them.
+A
 
 3)
 Complete the notes below. Choose NO MORE THAN THREE WORDS from the text for each answer.
 
 Robot Features
 
-DARPA race cars:                          ……………......... provides maps and plans for route
+DARPA race cars:                          …………on-board computer loaded provides maps and plans for route
 
-Electrolux Trilobite:                    	builds an image of a room by sending out …………….
+Electrolux Trilobite:                    	builds an image of a room by sending out emitting ultrasound signals.
 
-Robot Kitchen humanoids:         	have a ………………......... to take orders
+Robot Kitchen humanoids:         	have a touch-screen on to take orders
  
  
  
