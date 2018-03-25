@@ -56,17 +56,17 @@ VIII. Following the pattern of an earlier development
 
 IX. The ethical issues of robotics
 
-Paragraph A ………………….
+Paragraph A ……I…………….
 
-Paragraph B …………………
+Paragraph B IX…………………
 
-Paragraph C …………………
+Paragraph C ……III……………
 
-Paragraph D ………………
+Paragraph D …VII……………
 
-Paragraph E ……………….
+Paragraph E …II…………….
 
-Paragraph F ………………..
+Paragraph F IV………………..
 
 2)
 
@@ -75,11 +75,11 @@ Note You may use any letter more than once.
 
 A Bill Gates    B Nello Cristianini      C Ron Chrisley
 
-An important concern for scientists is to ensure that robots do not seem frightening. 
+An important concern for scientists is to ensure that robots do not seem frightening. C
 
-We have stopped trying to enable robots to perceive objects as humans do 
+We have stopped trying to enable robots to perceive objects as humans do A
 
-It will take considerable time for modern robots to match the ones we have created in films and books. 
+It will take considerable time for modern robots to match the ones we have created in films and books. B
 
 We need to enable robots to move freely before we think about trying to communicate with them.
 
@@ -88,11 +88,11 @@ Complete the notes below. Choose NO MORE THAN THREE WORDS from the text for each
 
 Robot Features
 
-DARPA race cars:                          ……………......... provides maps and plans for route
+DARPA race cars:                          ………drive less car……......... provides previous for route
 
-Electrolux Trilobite:                    	builds an image of a room by sending out …………….
+Electrolux Trilobite:                    	builds an image of a room by sending out signals…………….
 
-Robot Kitchen humanoids:         	have a ………………......... to take orders
+Robot Kitchen humanoids:         	have a ……touch-screen…………......... to take orders
  
  
  
